@@ -1,0 +1,33 @@
+#myHeader {color: rgb(255,38,4) ;}
+
+#jr {color: white;}
+
+
+h1 {
+    color:white;
+    text-align:center;
+}
+
+h4 {
+    color:red;
+    text-align:center;
+}
+
+body {
+    background-color: #000000;
+    color: #ffffff;
+    }
+
+
+#gallery {color: rgb(36, 1, 1);
+
+    }
+footer {
+    background-color: #2d2b3e;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+
